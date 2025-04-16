@@ -1,0 +1,42 @@
+.background-image{
+    background-image: url('https://i.postimg.cc/QxmNMvrw/pexels-pedro-figueras-202443-681467.jpg');
+    background-size: cover;
+    height: 50vh;
+}
+nav{
+    margin-left:10%;
+    margin-right:10%;
+    background-color: transparent;
+    position: absolute; 
+}
+.navbar-brand{
+    font-size: 26px;
+    color:gold;
+    font-family: 'Oleo Script', cursive;
+}
+h1{
+   text-align: center;
+}
+h3{
+    text-align: center;
+}
+.btn{
+    color:white;
+    margin-left: 35%;
+}
+.welcome-sign{
+    position: absolute;
+    top: 25%;            
+    left: 50%;
+    transform: translate(-50%, -50%);       
+    bottom: auto;       
+    padding: 0; 
+    color: white;
+}
+.navbar-nav .nav-link {
+    color: #fff;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+  }
+  

@@ -1,0 +1,50 @@
+.background-image {
+  background-image: url("https://i.postimg.cc/QxmNMvrw/pexels-pedro-figueras-202443-681467.jpg");
+  background-size: cover;
+  height: 50vh;
+}
+
+nav {
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: transparent;
+  position: absolute;
+}
+
+.navbar-brand {
+  font-size: 26px;
+  color: gold;
+  font-family: "Oleo Script", cursive;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.btn {
+  color: white;
+  margin-left: 35%;
+}
+
+.welcome-sign {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  bottom: auto;
+  padding: 0;
+  color: white;
+}
+
+.navbar-nav .nav-link {
+  color: #fff;
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLDhGQUFBO0VBQ0Esc0JBQUE7RUFDQSxZQUFBO0FDQ0o7O0FEQ0E7RUFDSSxnQkFBQTtFQUNBLGlCQUFBO0VBQ0EsNkJBQUE7RUFDQSxrQkFBQTtBQ0VKOztBREFBO0VBQ0ksZUFBQTtFQUNBLFdBQUE7RUFDQSxtQ0FBQTtBQ0dKOztBRERBO0VBQ0csa0JBQUE7QUNJSDs7QURGQTtFQUNJLGtCQUFBO0FDS0o7O0FESEE7RUFDSSxZQUFBO0VBQ0EsZ0JBQUE7QUNNSjs7QURKQTtFQUNJLGtCQUFBO0VBQ0EsUUFBQTtFQUNBLFNBQUE7RUFDQSxnQ0FBQTtFQUNBLFlBQUE7RUFDQSxVQUFBO0VBQ0EsWUFBQTtBQ09KOztBRExBO0VBQ0ksV0FBQTtFQUNBLGVBQUE7RUFDQSxxQ0FBQTtFQUNBLGdCQUFBO0FDUUoiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
