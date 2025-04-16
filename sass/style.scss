@@ -118,3 +118,8 @@ i{
     font-family: "Roboto Slab", serif;
     text-align: center;
 }
+.card img {
+    height: 300px;
+    width: 100%;        
+    object-fit: cover;
+}
