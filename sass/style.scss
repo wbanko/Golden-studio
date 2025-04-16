@@ -14,15 +14,27 @@ nav{
     color:gold;
     font-family: 'Oleo Script', cursive;
 }
-h1{
+.welcome-sign h1{
    text-align: center;
+   font-family:"Montserrat", sans-serif;
+   font-size: 75px;
+   white-space: nowrap;
+   font-weight: bold;
+   text-transform: uppercase;
 }
-h3{
+.welcome-sign h3{
     text-align: center;
+    font-family: "Source Serif 4", serif;
+    font-style: italic;
+    font-size: 40px;
 }
 .btn{
     color:white;
-    margin-left: 35%;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 20px 50px;
+    border-radius: 2px;
 }
 .welcome-sign{
     position: absolute;
