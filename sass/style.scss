@@ -1,24 +1,25 @@
 .background-image{
-    background-image: url('https://i.postimg.cc/QxmNMvrw/pexels-pedro-figueras-202443-681467.jpg');
+    background-image: url('https://i.postimg.cc/8cWcZBcW/pexels-pedro-figueras-202443-681467.jpg');
     background-size: cover;
     height: 50vh;
+    width: auto;
 }
 nav{
     margin-left:10%;
     margin-right:10%;
-    background-color: transparent;
-    position: absolute; 
 }
 .navbar-brand{
     font-size: 26px;
     color:gold;
     font-family: 'Oleo Script', cursive;
 }
+.navbar-toggler{
+    background-color: white;
+}
 .welcome-sign h1{
    text-align: center;
    font-family:"Montserrat", sans-serif;
    font-size: 75px;
-   white-space: nowrap;
    font-weight: bold;
    text-transform: uppercase;
 }
